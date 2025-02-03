@@ -7,6 +7,7 @@ This is where i put the solutions to LeetCode questions.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -15,4 +16,8 @@ This is where i put the solutions to LeetCode questions.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+## Array
+|  |
+| ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
