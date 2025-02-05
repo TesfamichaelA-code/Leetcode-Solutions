@@ -19,5 +19,14 @@ This is where i put the solutions to LeetCode questions.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
