@@ -35,4 +35,8 @@ This is where i put the solutions to LeetCode questions.
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
