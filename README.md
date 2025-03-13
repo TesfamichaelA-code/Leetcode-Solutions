@@ -14,6 +14,7 @@ This is where i put the solutions to LeetCode questions.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [2448-count-number-of-bad-pairs](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 ## String
 |  |
@@ -50,4 +51,8 @@ This is where i put the solutions to LeetCode questions.
 |  |
 | ------- |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/2916-check-if-it-is-possible-to-split-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
