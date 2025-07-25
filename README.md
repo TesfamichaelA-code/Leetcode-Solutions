@@ -20,6 +20,7 @@ This is where i put the solutions to LeetCode questions.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 ## Array
 |  |
