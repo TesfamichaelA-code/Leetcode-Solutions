@@ -27,6 +27,7 @@ This is where i put the solutions to LeetCode questions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1364-tuple-with-same-product](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -36,6 +37,7 @@ This is where i put the solutions to LeetCode questions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Greedy
 |  |
@@ -61,4 +63,8 @@ This is where i put the solutions to LeetCode questions.
 | ------- |
 | [0010-regular-expression-matching](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0050-powx-n) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
