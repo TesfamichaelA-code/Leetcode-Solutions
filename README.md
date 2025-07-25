@@ -21,6 +21,7 @@ This is where i put the solutions to LeetCode questions.
 | ------- |
 | [0006-zigzag-conversion](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 ## Array
 |  |
@@ -53,9 +54,11 @@ This is where i put the solutions to LeetCode questions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
