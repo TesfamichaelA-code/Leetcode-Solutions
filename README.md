@@ -25,6 +25,7 @@ This is where i put the solutions to LeetCode questions.
 | [0010-regular-expression-matching](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0038-count-and-say](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0038-count-and-say) |
 ## Array
 |  |
 | ------- |
