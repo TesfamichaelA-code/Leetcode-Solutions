@@ -35,6 +35,7 @@ This is where i put the solutions to LeetCode questions.
 | [0016-3sum-closest](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [1364-tuple-with-same-product](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -82,4 +83,8 @@ This is where i put the solutions to LeetCode questions.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0039-combination-sum) |
+## Stack
+|  |
+| ------- |
+| [0636-exclusive-time-of-functions](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 <!---LeetCode Topics End-->
