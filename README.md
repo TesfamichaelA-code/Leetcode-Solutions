@@ -35,6 +35,7 @@ This is where i put the solutions to LeetCode questions.
 | [0016-3sum-closest](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0283-move-zeroes](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0636-exclusive-time-of-functions](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [1364-tuple-with-same-product](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -48,6 +49,7 @@ This is where i put the solutions to LeetCode questions.
 | [0015-3sum](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0283-move-zeroes](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
