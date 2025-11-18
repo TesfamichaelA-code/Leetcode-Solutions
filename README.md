@@ -6,6 +6,7 @@ This is where i put the solutions to LeetCode questions.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1364-tuple-with-same-product](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -30,6 +31,7 @@ This is where i put the solutions to LeetCode questions.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TesfamichaelA-code/Leetcode-Solutions/tree/master/0016-3sum-closest) |
